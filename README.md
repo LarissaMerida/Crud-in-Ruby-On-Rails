@@ -1,26 +1,15 @@
-# README
+# Crud with Ruby on Rails and MongoDB
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Steps are necessary to get the application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.3.3p222 
 
-* System dependencies
+* Database creation MongoDB v4.0.9
 
-* Configuration
+* Database initialization 
 
-* Database creation
+* How to run enter "bundle install" , after enter "rails s"
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-https://richonrails.com/articles/mongodb-and-rails
+* Referências: https://richonrails.com/articles/mongodb-and-rails
